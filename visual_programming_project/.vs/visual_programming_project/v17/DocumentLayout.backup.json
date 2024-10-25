@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VP PROJECT SHOPPING CARD\\visual_programming_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63962BA7-F043-45BD-8887-43A3C7BD860A}|visual_programming_project\\visual_programming_project.csproj|d:\\vp project shopping card\\visual_programming_project\\visual_programming_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63962BA7-F043-45BD-8887-43A3C7BD860A}|visual_programming_project\\visual_programming_project.csproj|solutionrelative:visual_programming_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VP PROJECT SHOPPING CARD\\visual_programming_project\\visual_programming_project\\Program.cs",
+              "RelativeDocumentMoniker": "visual_programming_project\\Program.cs",
+              "ToolTip": "D:\\VP PROJECT SHOPPING CARD\\visual_programming_project\\visual_programming_project\\Program.cs",
+              "RelativeToolTip": "visual_programming_project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T16:28:56.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

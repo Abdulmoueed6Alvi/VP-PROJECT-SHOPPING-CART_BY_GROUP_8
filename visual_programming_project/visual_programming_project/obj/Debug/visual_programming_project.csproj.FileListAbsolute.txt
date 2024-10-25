@@ -1,0 +1,7 @@
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\bin\Debug\visual_programming_project.exe.config
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\bin\Debug\visual_programming_project.exe
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\bin\Debug\visual_programming_project.pdb
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\obj\Debug\visual_programming_project.csproj.AssemblyReference.cache
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\obj\Debug\visual_programming_project.csproj.CoreCompileInputs.cache
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\obj\Debug\visual_programming_project.exe
+C:\Users\lamia fatima\source\repos\visual_programming_project\visual_programming_project\obj\Debug\visual_programming_project.pdb
